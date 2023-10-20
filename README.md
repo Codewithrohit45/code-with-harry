@@ -1,2 +1,3 @@
 # code-with-harry
-this si my first git reposetry
+this is my first git reposetry
+author -rohit kumar gupta
